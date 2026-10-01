@@ -1,0 +1,15 @@
+# Environment variables
+.env
+**/ .env
+backend/.env
+frontend/.env
+
+# Node & Python dependencies / build artifacts
+node_modules/
+__pycache__/
+*.pyc
+venv/
+env/
+dist/
+build/
+.DS_Store

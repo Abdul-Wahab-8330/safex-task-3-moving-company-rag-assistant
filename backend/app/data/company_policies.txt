@@ -1,0 +1,38 @@
+# Safex Relocation & Moving Services Australia - Operations Manual & Policies
+
+## 1. Scope of Services
+- Safex Relocation provides professional domestic household moving and small commercial office relocations **Australia-wide**.
+- We handle both **Intra-city (Local metropolitan moves within capital cities or regional hubs)** and **Inter-city (Interstate / Long-distance cross-state relocations)**.
+
+## 2. Move Categories & Pricing Structure (AUD)
+
+### A. Intra-City / Local Moves (Within 50 km radius)
+- Billed on an **hourly basis** with a strict 2-hour minimum call-out.
+- **Crew Options:**
+  - Standard Crew (2 Professional Movers + 1 Medium Pantech Truck): $140 AUD / hour
+  - Large Crew (3 Professional Movers + 1 Large Freight Truck): $180 AUD / hour
+- Extra heavy or specialized items (e.g., upright pianos, heavy slate pool tables, heavy workshop safes) incur a flat $180 AUD heavy-item handling surcharge per item.
+
+### B. Inter-City / Interstate Long-Distance Moves (Over 50 km)
+- Billed based on **total driving distance in kilometers** (routed via Google Maps Distance Matrix API) and the estimated volume/weight of household belongings.
+- Distance Rate Tiers:
+  - 51 km to 300 km: $3.20 AUD per kilometer.
+  - 301 km to 700 km: $2.60 AUD per kilometer.
+  - Over 700 km (Interstate major routes e.g., Sydney-Melbourne, Brisbane-Sydney): Custom trunk freight quote calculated per cubic meter ($180 AUD / $m^3$) combined with distance fuel levy.
+- Includes mandatory road transit tolls, base insurance, and basic fuel burn surcharge.
+
+## 3. Booking & Deposits
+- To secure a moving date, a 20% non-refundable deposit (in AUD) is required at booking confirmation.
+- Rescheduling is free of charge if requested at least 7 days before the scheduled move date. Rescheduling within 7 days incurs an $80 AUD late adjustment fee.
+
+## 4. Insurance & Liability
+- Basic standard transit liability coverage is included free of charge, covering up to $0.60 AUD per kilogram per article for damaged goods.
+- Customers can upgrade to Full Value Protection (FVP) insurance for an extra fee calculated at 5% of the total declared inventory replacement value. FVP covers full repair, equivalent replacement, or monetary settlement.
+- Fragile kitchenware, fine art, and sensitive electronics must be packed by our accredited team using heavy-duty double-walled moving cartons to qualify for FVP insurance.
+
+## 5. Prohibited Items
+- For compliance with Australian road safety and transport regulations, our trucks cannot transport dangerous goods, petrol cans, gas bottles (LPG cylinders must be completely empty and certified), firearms, ammunition, perishable groceries, or live plants across interstate borders.
+
+## 6. Cancellation Policy
+- Cancellations made 10+ days prior to the move receive a full refund minus a $30 AUD processing fee.
+- Cancellations made less than 72 hours before the move forfeit the 20% deposit.
